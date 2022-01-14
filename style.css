@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  
+}
+
+h1{
+  color: white;
+  background-color: blue;
+  margin-top: 0;
+  border-radius: 20px;
+}
+
+.container{
+  margin: 10% 40%;
+  background-color: white;
+  width: 15rem;
+  border-radius: 20px;
+  border: solid 2px;
+}
+
+.number{
+  margin: 1rem 0;
+  border-radius: 5px;
+}
+
+.btn{
+  margin: 0 0.1rem 0.1rem 0.1rem;
+  background-color: blue;
+  border:solid 1px;
+  border: 0;
+  border-radius: 100px;
+  color: white;
+
+  
+}
+
+.btn:hover{
+  background-color: gold;
+  color: red;
+}
